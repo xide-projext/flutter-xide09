@@ -26,3 +26,7 @@ flutter run -d chrome
 ```
 
 https://firebase.flutter.dev/docs/overview/#initializing-flutterfire
+
+
+https://firebase.flutter.dev/docs/firestore/usage/#one-time-read
+
