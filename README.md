@@ -24,3 +24,5 @@ firebase login
 flutterfire configure
 flutter run -d chrome
 ```
+
+https://firebase.flutter.dev/docs/overview/#initializing-flutterfire
