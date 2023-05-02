@@ -30,3 +30,5 @@ https://firebase.flutter.dev/docs/overview/#initializing-flutterfire
 
 https://firebase.flutter.dev/docs/firestore/usage/#one-time-read
 
+***change number***
+https://console.firebase.google.com/u/0/project/flutter-aie/firestore/data/~2Fcounts~2FKECk1aTr2SUXDFC9MLOr?hl=ko&view=panel-view&scopeType=collection&scopeName=%2Fcounts
