@@ -18,5 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 https://firebase.google.com/docs/firestore/quickstart?authuser=0&hl=ko
 ```
 flutter pub add cloud_firestore
-
+dart pub global activate flutterfire_cli
+curl -sL https://firebase.tools | bash
+firebase login
+flutterfire configure
+flutter run -d chrome
 ```
